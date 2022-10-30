@@ -25,7 +25,7 @@ public class Diary extends Entry {
     }
 
     /**
-     * Metod som skapar ett inlägg och sparar ner det i json
+     * Metod som skapar ett inlägg
      */
     static Entry addNewEntry() {
         System.out.println("Enter a title");
